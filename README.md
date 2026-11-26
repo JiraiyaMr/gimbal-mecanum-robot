@@ -35,7 +35,7 @@ Four-wheel velocity mixing, motor-feedback PID control, and referee-based power 
 
 Enabled: chassis, CAN board-command reception, INS, and referee tasks. Gimbal, robot-command, shooting, steering, and board-command sending task creation is commented out. This snapshot is configured for a chassis-side role.
 
-Code availability and task activation are documented separately. This repository does not claim that the archived startup configuration runs every robot subsystem simultaneously.
+Code availability and task activation are documented separately. 
 
 ## Build and verification
 
