@@ -47,8 +47,6 @@ Run `python tools/verify_import.py` to verify that the imported firmware bytes m
 
 - [Personal contribution record](docs/contributions.md)
 - [Demonstration and testing](docs/evidence.md)
-- [Source provenance](docs/provenance.md)
-- [Third-party notices](THIRD_PARTY_NOTICES.md)
 
 ## Related robot projects
 
